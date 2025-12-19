@@ -17,6 +17,9 @@ Thumbs.db
 # VS Code
 .vscode/
 
+# Ignore ChromaDB persistence directory
+chroma_db/
+
 # Other
 *.log
 
