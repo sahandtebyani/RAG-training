@@ -19,6 +19,7 @@ Thumbs.db
 
 # Ignore ChromaDB persistence directory
 chroma_db/
+chorma_rag_db/
 
 # Other
 *.log
